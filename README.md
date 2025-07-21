@@ -1,10 +1,2 @@
-- 👋 Hi, I’m Eyasin
-- 👀 I’m interested in Data
-- 🌱 I’m currently learning Data analysis
-- 📫 eyasin.113t@gmail.com
-- 😄 Pronouns: He/Him
-
-<!---
-Eyasin-terminal/Eyasin-terminal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi, I'm Eyasin Arafath! 👋
+I'm currently on a journey to become an AI Agent Developer, leveraging the latest AI tools and technologies. I'm passionate about exploring the intersection of artificial intelligence and real-world applications, and I'm excited to see where this path takes me.
