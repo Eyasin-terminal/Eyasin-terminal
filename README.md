@@ -1,2 +1,13 @@
-Hi, I'm Eyasin Arafath! 👋
-I'm currently on a journey to become an AI Agent Developer, leveraging the latest AI tools and technologies. I'm passionate about exploring the intersection of artificial intelligence and real-world applications, and I'm excited to see where this path takes me.
+# Hi, I'm Eyasin 👋
+
+Welcome to my profile!
+
+Here’s a fun game generated from my GitHub contributions:
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="images/breakout-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="images/breakout-light.svg" />
+  <img alt="Breakout Game" src="images/breakout-light.svg" />
+</picture>
+
+Thanks for visiting 🚀
